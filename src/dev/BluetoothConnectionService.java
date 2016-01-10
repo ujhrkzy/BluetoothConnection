@@ -11,7 +11,10 @@ import javax.microedition.io.StreamConnectionNotifier;
 
 /**
  * 
+ * {@link BluetoothConnectionService}
+ *
  * @author ujhrkzy
+ *
  */
 public class BluetoothConnectionService {
     /**
